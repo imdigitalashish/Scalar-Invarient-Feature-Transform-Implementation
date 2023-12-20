@@ -1,6 +1,6 @@
 # PySIFT
 
-This project contains an implementation of the SIFT keypoint extraction algorithm in Python and I recommend you to read the paper first https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf by David G. Lowe
+This project contains an implementation of the SIFT keypoint extraction algorithm in Python and I recommend you to read the paper first https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf by David G. Lowe ❤️
 
 ## Usage
 
